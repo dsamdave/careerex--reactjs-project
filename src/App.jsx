@@ -21,6 +21,8 @@ function App (){
   return (
     <div>
 
+      {/* lets see what happens */}
+
        <NavbarComp />
 
     
